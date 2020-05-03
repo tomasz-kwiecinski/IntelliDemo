@@ -18,12 +18,6 @@ public class Main {
         }
 
 
-        if (true) {
-
-            if (true) {
-                i = 1;
-            }
-        }
         System.out.print(i);
 
     }
